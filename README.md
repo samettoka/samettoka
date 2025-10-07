@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name Samet Toka</h1>
+<h1 align="center">Hi! My name is Samet Toka</h1>
 <h3 align="center">I am a computer engineering student at Eskişehir Osmangazi University.</h3>
 
 - 📫 How to reach me **tokasamet2@gmail.com**
