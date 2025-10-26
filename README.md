@@ -4,9 +4,9 @@
 </p>
 
 <!-- 🔹 Animasyonlu Yazı -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Samet+Toka+👋;Computer+Engineering+Student;Software+Development+Enthusiast;Always+learning+and+building+💻" />
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Samet+Toka+👋;Computer+Engineering+Student;Software+Development+Enthusiast;Always+learning+and+building+💻" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -42,8 +42,6 @@
   <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
 </p>
-
-> Not: Bu ikonlar `devicon` kütüphanesinden geliyor. Hepsi SVG olduğu için koyu temada da temiz durur.
 
 
 ---
