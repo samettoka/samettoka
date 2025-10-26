@@ -7,7 +7,7 @@
 
 ---
 
-##  Technologie
+##  Tools
 
 <p>
   <!-- VS Code -->
