@@ -1,16 +1,40 @@
 # 👋 Hi, My name is Samet TOKA
 
-🎯 **Bilgisayar Mühendisliği öğrencisi** olarak yazılım dünyasında kendimi geliştirmeye odaklanıyorum.  
-Kod yazarken verimliliğe, temiz koda ve sürdürülebilir çözümlere önem veririm.  
-Hedefim, hem bireysel hem de ekip çalışmalarında üretken, yenilikçi projeler geliştirmek.
+🎯 I'm a Computer Engineering student at **Eskişehir Osmangazi University**
+
 
 ---
 
-### 🧠 Kullandığım Teknolojiler
+##  Tools & Technologies I Use
 
-- **Programlama Dilleri:** Python · C# · C++ · C  
-- **Veri Tabanı:** SQL  
-- **Araçlar:** Jupyter Notebook · Visual Studio Code · Visual Studio · Docker  
+<p>
+  <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <!-- Visual Studio -->
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <!-- Jupyter -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+##  Languages I Write
+
+<p>
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- SQL tekrar istersen burada da görünebilir -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
 
 ---
 
