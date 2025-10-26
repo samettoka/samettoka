@@ -8,25 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C46B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Samet+Toka+👋;Computer+Engineering+Student;Software+Development;Always+learning+and+building+💻" alt="Typing SVG" />
 </p>
 
----
-
-## 🧠 About Me  
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="90%" alt="snake animation" />
-</p>
-
-<div align="center">
-
-💼 &nbsp;I'm a **Computer Engineering student** passionate about technology and software design.  
-💻 &nbsp;I enjoy coding in **Python**, **C#**, and **C++** while exploring system-level concepts.  
-🛠️ &nbsp;Currently working with **Docker**, **SQL**, **Visual Studio**, and **Jupyter Notebook**.  
-🌿 &nbsp;Focused on **clean code**, **scalable design**, and **real-world problem solving**.  
-🚀 &nbsp;My goal is to **build impactful, production-ready software** that makes a difference.  
-
-</div>
-
-
 
 ---
 
@@ -69,4 +50,6 @@
 
 ---
 
-<p align="center"><i>“Every line of code is a step forward.”</i></p>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="90%" alt="snake animation" />
+</p>
