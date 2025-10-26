@@ -7,7 +7,7 @@
 
 ---
 
-##  Tools & Technologies I Use
+##  Technologie
 
 <p>
   <!-- VS Code -->
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-##  Languages I Write
+##  Language
 
 <p>
   <!-- C -->
@@ -40,7 +40,7 @@
 
 ---
 
-### 🌐 Benimle İletişime Geç
+### 🌐 Contact Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samettoka/" target="_blank">
